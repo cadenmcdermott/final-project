@@ -1,0 +1,72 @@
+
+  p {
+    max-width: 800px;
+    font-family: 'Georgia', arial, sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    padding-left: 20px;
+  }
+
+h1 {
+    font-family: 'Franklin Gothic', Arial, sans-serif; 
+}
+
+.nav-bar {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.genre {
+    font-family: 'Helvetica', arial, sans-serif;
+    font-size: 20px;
+    padding-top: 32px;
+    padding-left: 20px;
+}
+
+h2 {
+    margin-top: 32px;
+    padding-left: 40px;
+    font-size: 46px;
+    font-weight: bold;
+    padding-right: 20px;
+}
+
+.byline {
+    margin-top: 32px;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-top: 10px;
+    font-family: 'Helvetica', arial, sans-serif;
+}
+
+.date {
+    font-family: 'Helvetica', arial, sans-serif;
+    font-size: 16px;
+    color: gray;
+    padding-left: 20px;
+    margin-top: 32px;
+}
+
+.article {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.row {
+    margin: auto;
+}
+
+.center-iframe {
+    display: block;
+    margin: 0 auto;
+  }
+
+.card {
+    display: block;
+    margin-left: auto;
+    width: 100%;
+}
+
+.header {
+    background-color: lightgray;
+}
